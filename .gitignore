@@ -1,1 +1,7 @@
 data/
+.ipynb_checkpoints/
+Archive/
+cifar100/
+logs/
+runs/
+.DS_Store
